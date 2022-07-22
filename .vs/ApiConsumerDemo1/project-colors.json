@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3db18b49-8f33-43d1-badf-dd8af1166b30": {
+      "ProjectGuid": "3db18b49-8f33-43d1-badf-dd8af1166b30",
+      "DisplayName": "WPFApp",
+      "ColorIndex": 0
+    },
+    "fb10507f-e10a-4eed-9084-5bcc11a78328": {
+      "ProjectGuid": "fb10507f-e10a-4eed-9084-5bcc11a78328",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 1
+    },
+    "cb865de8-cb35-4268-ba8b-d0abda2c2df7": {
+      "ProjectGuid": "cb865de8-cb35-4268-ba8b-d0abda2c2df7",
+      "DisplayName": "DemoLibrary1",
+      "ColorIndex": 2
+    },
+    "bf1d3040-d59d-48c9-b403-82c186c40224": {
+      "ProjectGuid": "bf1d3040-d59d-48c9-b403-82c186c40224",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
